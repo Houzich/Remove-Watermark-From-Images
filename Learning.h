@@ -24,3 +24,4 @@ class LogoLearning {
 
 void Shadow_Learning(LogoLearning* dt, int step);
 
+

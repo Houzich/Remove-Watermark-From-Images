@@ -14,3 +14,4 @@ void Erosion(int, void*);
 void Dilation(int, void*);
 void Learning_Artifact_1200_960(int limit_1, int limit_2, int limit_3, int color_offset);
 
+
