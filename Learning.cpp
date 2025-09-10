@@ -1,4 +1,4 @@
-﻿#include "Watermark.h"
+#include "Watermark.h"
 #include "Learning.h"
 #include "Processing.h"
 

@@ -1,4 +1,4 @@
-﻿
+
 #include <opencv2/core.hpp>
 #include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
@@ -174,5 +174,6 @@ int Copy_Image(TCHAR* path_in, TCHAR* path_out)
 	FindClose(hFind);
 	return 0;
 }
+
 
 
