@@ -1,4 +1,4 @@
-﻿#include "Watermark_Processing.h"
+#include "Watermark_Processing.h"
 #include "Watermark_Learning.h"
 #include "Watermark.h"
 #include <opencv2/core.hpp>

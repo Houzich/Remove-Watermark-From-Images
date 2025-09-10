@@ -1,4 +1,4 @@
-﻿#include "Processing.h"
+#include "Processing.h"
 #include "Learning.h"
 #include "Watermark.h"
 
@@ -369,3 +369,4 @@ int Processing_Folder(TCHAR* path_in, TCHAR* path_out)
 	FindClose(hFind);
 	return 0;
 }
+
