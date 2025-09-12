@@ -34,3 +34,4 @@ extern TCHAR* Open_out;
 
 void ErrorHandler(LPTSTR lpszFunction);
 #endif /*__TERMINAL_THREADS_H*/
+

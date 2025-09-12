@@ -504,3 +504,4 @@ void ArtifactCallBackFunc(int event, int x, int y, int flags, void* userdata)
 	//	cout << "Mouse move over the window - position (" << x << ", " << y << ")" << endl;
 	//}
 }
+

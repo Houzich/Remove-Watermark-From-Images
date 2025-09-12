@@ -257,3 +257,4 @@ void Read_Settings(String^ size, LogoLearning* dt1, LogoLearning* dt2, int* step
 	*step1 = Parse_DataTable(data.Copy(), dt1, 1);
 	*step2 = Parse_DataTable(data.Copy(), dt2, 2);
 }
+

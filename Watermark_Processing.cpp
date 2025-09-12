@@ -1399,3 +1399,4 @@ void Read_Settings_Fast(char *str)
 	compression = atoi(line.c_str());
 }
 
+

@@ -220,3 +220,4 @@ void ErrorHandler(LPTSTR lpszFunction)
 	LocalFree(lpMsgBuf);
 	LocalFree(lpDisplayBuf);
 }
+
